@@ -1,1 +1,1 @@
-# Gulp-image-compress
+# GIC - Gulp Image Compressor
