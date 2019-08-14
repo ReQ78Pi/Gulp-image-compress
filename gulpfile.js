@@ -27,7 +27,7 @@ var watch            = require('gulp-watch');
        progressive: true
      }),
       imageminMozjpeg({
-       quality: 100,
+       quality: 80,
        progressive: true,
        tune: 'ms-ssim'
      }),
