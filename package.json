@@ -1,9 +1,9 @@
 {
   "name": "gic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp image compression",
   "main": "index.js",
-  "author": "ReQ78Pi",
+  "author": "Alexey Ozhogin",
   "license": "MIT",
   "dependencies": {
     "gulp": "^4.0.2",
